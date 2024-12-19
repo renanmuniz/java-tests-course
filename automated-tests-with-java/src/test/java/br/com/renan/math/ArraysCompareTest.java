@@ -1,4 +1,4 @@
-package br.com.renan;
+package br.com.renan.math;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

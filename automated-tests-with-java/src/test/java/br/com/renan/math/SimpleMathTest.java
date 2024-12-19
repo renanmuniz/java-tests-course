@@ -1,8 +1,7 @@
-package br.com.renan;
+package br.com.renan.math;
 
+import br.com.renan.SimpleMath;
 import org.junit.jupiter.api.*;
-
-import java.math.BigDecimal;
 
 import static org.junit.jupiter.api.Assertions.*;
 
